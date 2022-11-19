@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166694189777",
+    "project_id": "curiosity-1f5de",
+    "storage_bucket": "curiosity-1f5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166694189777:android:2ad2b79ee53098a48fa3f0",
+        "android_client_info": {
+          "package_name": "com.inuma.curiosity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166694189777-ht9ajdsoi1gkg0a5omavlpnuee9slhvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXSKGT1s2ncqsLwtmhH0Eqy06WX0ZdP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166694189777-ht9ajdsoi1gkg0a5omavlpnuee9slhvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
